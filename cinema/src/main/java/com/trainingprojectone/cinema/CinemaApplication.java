@@ -8,7 +8,7 @@ public class CinemaApplication {
 
   public static void main(String[] args) {
 
-    System.out.println("Test gita ");
+    System.out.println("Test gita  ");
 
     SpringApplication.run(CinemaApplication.class, args);
   }
